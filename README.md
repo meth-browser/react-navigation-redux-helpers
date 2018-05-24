@@ -1,5 +1,7 @@
 # react-navigation-redux-helpers
 
+**This branch is used to publish to the @meth/react-navigation-redux-helpers module**
+
 This repo contains Redux middleware and utils for React Navigation.
 
 ## Installation
